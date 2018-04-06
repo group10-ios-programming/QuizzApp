@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     let questions = ["Favorite Pet ?","Favorite Color ?","Where was you born ?"]
-    let answers = [["xxx","cat","bird"],["blue","black","green"],["Tokyo","New York","Viet Nam"]]
+    let answers = [["3x","cat","bird"],["blue","black","green"],["Tokyo","New York","Viet Nam"]]
     
     //Variable
     var currentQuestion = 0
